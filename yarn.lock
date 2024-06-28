@@ -364,6 +364,16 @@
   resolved "https://registry.yarnpkg.com/@eslint/js/-/js-8.57.0.tgz#a5417ae8427873f1dd08b70b3574b453e67b5f7f"
   integrity sha512-Ys+3g2TaW7gADOJzPt83SJtCDhMjndcDMFVQ/Tj9iA1BfJzFKD9mAUXT3OenpuPHbI6P/myECxRJrofUsDx/5g==
 
+"@fontsource-variable/nunito-sans@^5.0.14":
+  version "5.0.14"
+  resolved "https://registry.yarnpkg.com/@fontsource-variable/nunito-sans/-/nunito-sans-5.0.14.tgz#b28b6b6a7a348f555f8693b5803b29b108d51e84"
+  integrity sha512-C+zzqbHcWdCftYzSOMTjppd3c9Qb2/WgOJGFFui2vPDN2Dcrcuv7grzNFKtImQln+fMDt0vVQYol6SdvZAvlxA==
+
+"@fontsource/nunito-sans@^5.0.13":
+  version "5.0.13"
+  resolved "https://registry.yarnpkg.com/@fontsource/nunito-sans/-/nunito-sans-5.0.13.tgz#6e368ccda2635c6b2635ed6b4ba22cd3ac1478ab"
+  integrity sha512-rsajElysg08MhRPYiCZ1lh/34gTfHx9XzyP10oXPwgiFud7MIHAHjE1PTwYlZZDdceu89UzjxelRx98yie8wCw==
+
 "@humanwhocodes/config-array@^0.11.14":
   version "0.11.14"
   resolved "https://registry.yarnpkg.com/@humanwhocodes/config-array/-/config-array-0.11.14.tgz#d78e481a039f7566ecc9660b4ea7fe6b1fec442b"
